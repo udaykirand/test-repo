@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-benchmark-0.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-core-0.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-dom-0.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-examples-0.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-storage-0.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar" sourcepath="/home/udayd/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
